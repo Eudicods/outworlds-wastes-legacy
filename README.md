@@ -31,7 +31,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-badge]][cc-by-nc-sa]
 
 This is the repository for the legacy version of BattleTech: Outworlds Wastes.
-For the current version, see [the new repository][github-current].
+See [the new repository][github-current] for the current version of the project.
 
 ![BattleTech: Outworlds Wastes][outworlds-wastes-logo]
 
