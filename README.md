@@ -1,17 +1,18 @@
 [battletech-tw]: https://store.catalystgamelabs.com/products/battletech-total-warfare-pdf
 [battletech-as]: https://store.catalystgamelabs.com/products/battletech-alpha-strike-commanders-edition
 
-[outworlds-pdf]:        https://outworlds-wastes.jeremylt.org/downloads?league
-[outworlds-quickstart]: https://outworlds-wastes.jeremylt.org/downloads?quickstart
-[outworlds-event]:      https://outworlds-wastes.jeremylt.org/downloads?event
-[outworlds-web]:        https://outworlds-wastes.jeremylt.org
+[outworlds-pdf]:        https://outworlds-wastes-legacy.jeremylt.org/downloads?league
+[outworlds-quickstart]: https://outworlds-wastes-legacy.jeremylt.org/downloads?quickstart
+[outworlds-event]:      https://outworlds-wastes-legacy.jeremylt.org/downloads?event
+[outworlds-web]:        https://outworlds-wastes-legacy.jeremylt.org
 
-[build-pdf-job]:   https://github.com/Eudicods/outworlds-wastes/actions/workflows/build-pdf.yml
-[build-pdf-badge]: https://github.com/Eudicods/outworlds-wastes/actions/workflows/build-pdf.yml/badge.svg
-[build-web-job]:   https://github.com/Eudicods/outworlds-wastes/actions/workflows/build-website.yml
-[build-web-badge]: https://github.com/Eudicods/outworlds-wastes/actions/workflows/build-website.yml/badge.svg
+[build-pdf-job]:   https://github.com/Eudicods/outworlds-wastes-legacy/actions/workflows/build-pdf.yml
+[build-pdf-badge]: https://github.com/Eudicods/outworlds-wastes-legacy/actions/workflows/build-pdf.yml/badge.svg
+[build-web-job]:   https://github.com/Eudicods/outworlds-wastes-legacy/actions/workflows/build-website.yml
+[build-web-badge]: https://github.com/Eudicods/outworlds-wastes-legacy/actions/workflows/build-website.yml/badge.svg
 
-[github-issues]:   https://github.com/Eudicods/outworlds-wastes/issues
+[github-issues]:   https://github.com/Eudicods/outworlds-wastes-legacy/issues
+[github-current]:  https://github.com/Eudicods/outworlds-wastes
 
 [scotts-list]: https://scottsgameroom.com/2022/05/13/battletech-play-formats
 [fanon-wiki]:  https://battletechfanon.fandom.com/wiki/Battletech:_Outworlds_Wastes_(Casual_Campaigns)
@@ -28,6 +29,9 @@
 [![Build PDFs][build-pdf-badge]][build-pdf-job]
 [![Build Website][build-web-badge]][build-web-job]
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-badge]][cc-by-nc-sa]
+
+This is the repository for the legacy version of BattleTech: Outworlds Wastes.
+For the current version, see [the new repository][github-current].
 
 ![BattleTech: Outworlds Wastes][outworlds-wastes-logo]
 
